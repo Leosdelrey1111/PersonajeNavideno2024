@@ -11,7 +11,6 @@ El personaje o objeto creado sera un arbol navideño giratorio, este girara a pa
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
 |Resistor de 1 Kohm 1/4 W|![image](https://github.com/user-attachments/assets/2c2eb495-c37d-4264-a5c6-396aa68bdae7)|13|35.00|
 |Regulador LM7805|![image](https://github.com/user-attachments/assets/5ea155d7-1bf7-46c2-a183-263e46a951cb)|1|18.00|
 |Arduino mini pro|![image](https://github.com/user-attachments/assets/77e99209-2eb6-47ec-8374-66fa2b0cfe48)|1|180.00|

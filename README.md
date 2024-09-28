@@ -44,7 +44,10 @@ El personaje o objeto creado sera un arbol navideño giratorio, este girara a pa
 |https://wokwi.com/projects/410229698984383489|
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+|video|
+|--|
+|https://drive.google.com/file/d/1EQ0b4TVaWMMsN-ZlQEEbprawGXFUruPc/view?usp=sharing|
+
 
 ## EVIDENCIA DE LAS EVALUACIONES LLEVAS A CABO DE "C"
 |Capturas de Evaluaciones de Curso de C|

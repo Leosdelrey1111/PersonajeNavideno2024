@@ -3,7 +3,8 @@
 ALPACA NAV Y ARBOL 
 ## Creador
 Brayan Leonel Hernandez Diaz
-##Grupo
+
+## Grupo
 GDS0642
 ## Explicacion del funcionamiento
 El personaje o objeto creado sera un arbol navideño giratorio, este girara a partir de un motor, estara por debajo dando vueltas contantes a este arbol, tendra lices led en cada piso de este de diferentes colores, oh variara dependiendo las necesidades del momento o lo que se presente, tendra una estrella de luz en la punta, a parte tendra sosteniendo los aros de los pisos unos palitos o sostenedores de estos de manera que deje guirar cada piso, y cad pizo tendra un lugar donde se podra colocar el personaje o personajes, pequeñas Alpacas que se moveran mientras el arbol da vueltas, haciendo algunos movimientos de cabeza o extremidades de esta, o bien tendran alas y estas se moveran cada cierto tiempo o mientras el arbol gire.
@@ -55,5 +56,5 @@ El personaje o objeto creado sera un arbol navideño giratorio, este girara a pa
 |Capturas de Evaluaciones de Curso de C|
 |--|
 |![WhatsApp Image 2024-09-26 at 19 17 44_c3586be5](https://github.com/user-attachments/assets/c1e9dfb9-430c-44e4-a524-0adbab117baa)
-|
+
 

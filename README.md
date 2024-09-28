@@ -38,7 +38,10 @@ El personaje o objeto creado sera un arbol navideño giratorio, este girara a pa
 ## EVIDENCIA DE WOKWI
 |Enlaces de la simulación de wokwi|
 |--|
+|Proyecto todo incluido|
 |https://wokwi.com/projects/410063325491566593|
+|Proyecto Navideno|
+|https://wokwi.com/projects/410229698984383489|
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
